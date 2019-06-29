@@ -6,12 +6,13 @@ class OtherAmoutns extends React.Component {
     }
 
     handleOnChange(){
-        
+
     }
     
     render (){
     return <div>
         <input></input>
+        <button>Other</button>
     </div>
     }
 
